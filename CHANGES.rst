@@ -3,6 +3,7 @@ Version 3.2.0
 
 Unreleased
 
+-   Add Cloudflare Workers to the hosting platforms documentation. :issue:`6146`
 -   Drop support for Python 3.9 and 3.10. :pr:`5730` :pr:`6168`
 -   Remove previously deprecated code: ``__version__``. :pr:`5648`
 -   ``RequestContext`` has merged with ``AppContext``. ``RequestContext`` is now
